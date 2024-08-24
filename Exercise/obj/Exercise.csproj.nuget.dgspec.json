@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise\\Exercise.csproj": {}
+    "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise_on_cs\\Exercise\\Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise\\Exercise.csproj": {
+    "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise_on_cs\\Exercise\\Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise\\Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise_on_cs\\Exercise\\Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise\\Exercise.csproj",
+        "projectPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise_on_cs\\Exercise\\Exercise.csproj",
         "packagesPath": "C:\\Users\\JOBAYER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise\\obj\\",
+        "outputPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise_on_cs\\Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOBAYER\\AppData\\Roaming\\NuGet\\NuGet.Config"
