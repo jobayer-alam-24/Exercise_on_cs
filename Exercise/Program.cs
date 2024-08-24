@@ -19,7 +19,11 @@
             // Exercise13.NumberSeriesFromOutput();
             // Exercise14.TemperatureConverterFromCelsius(15);
             // Exercise15.RemoveSpecifiedCharFromString("w3resource", '3');
-            Exercise16.SwapFirstAndLastCharFromString();
+            // Exercise16.SwapFirstAndLastCharFromString();
+            // Exercise17.CharacterAdd("I love Bangladesh.");
+            // Exercise18.CheckNegativeAndPositive();
+            // Exercise19.CheckGivenCondition();
+            // Exercise20.WorkOnAbsoluteValue();
         }
     }
 }

@@ -1,5 +1,6 @@
 namespace Exercise
 {
+    //Program to swap the first and last character of a string
     public static class Exercise16
     {
         public static void SwapFirstAndLastCharFromString()
