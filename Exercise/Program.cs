@@ -24,6 +24,10 @@
             // Exercise18.CheckNegativeAndPositive();
             // Exercise19.CheckGivenCondition();
             // Exercise20.WorkOnAbsoluteValue();
+            // Exercise21.CheckTheSumOfTwoGivenNumbers(); 
+            // Exercise22.CheckANumberIsWithin20Of100Or200(97); 
+            // Exercise23.StringToLowerCase();
+                Exercise24.FindLongestWord();
         }
     }
 }
