@@ -27,7 +27,9 @@
             // Exercise21.CheckTheSumOfTwoGivenNumbers(); 
             // Exercise22.CheckANumberIsWithin20Of100Or200(97); 
             // Exercise23.StringToLowerCase();
-                Exercise24.FindLongestWord();
+            // Exercise24.FindLongestWord("Welcome to Bangladesh.");
+            // Exercise25.PrintOddNumbers();
+            Exercise26.SumOfPrime();
         }
     }
 }
