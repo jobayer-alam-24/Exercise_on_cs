@@ -29,7 +29,7 @@
             // Exercise23.StringToLowerCase();
             // Exercise24.FindLongestWord("Welcome to Bangladesh.");
             // Exercise25.PrintOddNumbers();
-            Exercise26.SumOfPrime();
+            // Exercise26.SumOf500PrimeNumbers();
         }
     }
 }

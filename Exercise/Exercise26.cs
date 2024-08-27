@@ -1,35 +1,47 @@
 namespace Exercise
 {
-    //Program to Print the sum of first 500 prime Numbers
     public static class Exercise26
     {
-        public static void SumOfPrime()
-        {
-            
+        public static void SumOf500PrimeNumbers()
+        {   
+            int counter = 0, sum = 0, start = 2;
+            while(counter < 500)
+            {
+                if(IsPrime(start))
+                {
+                    sum += start;
+                    counter++;
+                }
+                start++;
+            }
+            Console.WriteLine($"Sum of 500 prime numbers: {sum}");
         }
-        public static bool isPrime(int num)
+        public static bool IsPrime(int n)
         {
             int count = 0;
-            for (int i = 2; i < num; i++)
+            if (n > 1)
             {
-                if (num % i == 0)
+                for (int i = 2; i < n; i++)
                 {
-                    count++;
-                    break;
+                    if (n % i == 0)
+                    {
+                        count++;
+                        break;
+                    }
                 }
-            }
-            if (count > 0)
-            {
-                return false;
+                if(count > 0)
+                {
+                   return false; 
+                }
+                else
+                {
+                    return true;
+                }
             }
             else
             {
-                return true;
+                return false;
             }
         }
-
     }
-
 }
-
-
