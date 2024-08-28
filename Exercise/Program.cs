@@ -30,6 +30,8 @@
             // Exercise24.FindLongestWord("Welcome to Bangladesh.");
             // Exercise25.PrintOddNumbers();
             // Exercise26.SumOf500PrimeNumbers();
+            // Exercise27.SumOfIntegersDigit(12345);
+            // Exercise28.ReverseAllWords("I love when you call me senorita.");
         }
     }
 }
