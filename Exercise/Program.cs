@@ -35,7 +35,7 @@
             // Exercise29.FileSizeInBytesFromPC();
             // Exercise30.HexadecimalToDecimal("4B0");
             // Exercise31.MultiplicationOfTwoArrays();
-            Exercise32.PrintOnCertainCondition("I love when you call");
+            // Exercise32.PrintOnCertainCondition("I ");
         }
     }
 }

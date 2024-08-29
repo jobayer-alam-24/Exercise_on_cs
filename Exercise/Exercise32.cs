@@ -1,27 +1,28 @@
 namespace Exercise
 {
-    //Program to print string on certain condition
+    //Program to print four copies of last four characters
     public static class Exercise32
     {
         public static void PrintOnCertainCondition(string txt)
         {
             string fourChars = "";
             int len = txt.Length;
-
-            if (txt.Length < 4)
+            if(len < 4)
             {
-                Console.WriteLine("Less than four Characters: " + txt);
+                Console.WriteLine($"Less than Four Chars: {txt}");
             }
             else
             {
-                //Character numbers
-                for (int i = 4; i >= 1; i--)
+                for(int i = 4; i >= 1; i--)
                 {
-                    fourChars += $"{txt[len - i]}";
+                    fourChars += txt[len - i];
                 }
-                Console.WriteLine($"Four Characters: {fourChars}");
+                Console.Write($"Four Characters: ");
+                for(int i = 1; i <= 4; i++)
+                {
+                    Console.Write(fourChars);
+                }
             }
-
         }
     }
 }
