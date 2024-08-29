@@ -36,6 +36,11 @@
             // Exercise30.HexadecimalToDecimal("4B0");
             // Exercise31.MultiplicationOfTwoArrays();
             // Exercise32.PrintOnCertainCondition("I ");
+            // Exercise33.IsNumberMultipleOFThreeOrSeven();
+            // Exercise34.IsStartsWithHello("Hello, Senorita");
+            // Exercise35.CheckOnNumber();
+            // Exercise36.CheckOnIntegers();
+            // Exercise37.CheckHP();
         }
     }
 }
