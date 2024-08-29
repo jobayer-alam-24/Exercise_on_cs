@@ -41,6 +41,10 @@
             // Exercise35.CheckOnNumber();
             // Exercise36.CheckOnIntegers();
             // Exercise37.CheckHP();
+            // Exercise38.FirstTwoChars();
+            // Exercise39.LargestLowest();
+            // Exercise40.NearestValueOfTwenty();
+            // Exercise41.FindW();
         }
     }
 }
