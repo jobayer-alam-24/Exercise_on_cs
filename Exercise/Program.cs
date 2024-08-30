@@ -46,7 +46,10 @@
             // Exercise40.NearestValueOfTwenty();
             // Exercise41.FindW();
             // Exercise42.UppercaseLowercase();
-            Exercise43.CheckFollowing2Ws();
+            // Exercise43.CheckFollowing2Ws();
+            // Exercise44.PrindtOddCharacters();
+            // Exercise45.CountNumberPresentInArray();
+            // Exercise46.IsAppearsInFirstOrLast();
         }
     }
 }
