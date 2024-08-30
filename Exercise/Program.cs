@@ -50,6 +50,11 @@
             // Exercise44.PrindtOddCharacters();
             // Exercise45.CountNumberPresentInArray();
             // Exercise46.IsAppearsInFirstOrLast();
+            // Exercise47.SumOfArray();
+            // Exercise48.FirstAndLastElementIsEqual();
+            // Exercise49.FirstAndLastElementIsEqualInTwoArrays();
+            // Exercise50.RotateAnArray();
+            
         }
     }
 }
