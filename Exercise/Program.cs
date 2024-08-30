@@ -45,6 +45,8 @@
             // Exercise39.LargestLowest();
             // Exercise40.NearestValueOfTwenty();
             // Exercise41.FindW();
+            // Exercise42.UppercaseLowercase();
+            Exercise43.CheckFollowing2Ws();
         }
     }
 }

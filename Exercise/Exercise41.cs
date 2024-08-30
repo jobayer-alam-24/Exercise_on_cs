@@ -13,7 +13,6 @@ namespace Exercise
                 if(txt[i] == 'w')
                 {
                     IsFound = true;
-                    break;
                 }
                 else
                 {
