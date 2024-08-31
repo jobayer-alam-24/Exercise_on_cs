@@ -58,6 +58,7 @@
             // Exercise52.MiddleArray();
             // Exercise53.CheckOdd();
             // Exercise54.CenturyOfAGivenYear();
+            // Exercise55.ProductOfPairAdjacentFromLargestOne();
         }
     }
 }
