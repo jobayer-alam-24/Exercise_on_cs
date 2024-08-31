@@ -1,5 +1,6 @@
 namespace Exercise
 {
+    //Program to rotate an array
     public static class Exercise50
     {
         public static void RotateAnArray()

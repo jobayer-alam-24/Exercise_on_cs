@@ -54,7 +54,10 @@
             // Exercise48.FirstAndLastElementIsEqual();
             // Exercise49.FirstAndLastElementIsEqualInTwoArrays();
             // Exercise50.RotateAnArray();
-            
+            // Exercise51.LargestFirstAndLast();
+            // Exercise52.MiddleArray();
+            // Exercise53.CheckOdd();
+            // Exercise54.CenturyOfAGivenYear();
         }
     }
 }
