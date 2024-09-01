@@ -28,7 +28,6 @@ namespace Exercise
                 multiplied[start] = arr[i] * arr[i + 1];
                 start++;
             }
-            
             PrintArray(multiplied, multiplied.Length);
             Console.WriteLine($"Maximum: {multiplied.Max()}");
         }

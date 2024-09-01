@@ -59,6 +59,8 @@
             // Exercise53.CheckOdd();
             // Exercise54.CenturyOfAGivenYear();
             // Exercise55.ProductOfPairAdjacentFromLargestOne();
+            // Exercise56.PalindromeCheck();
+            Exercise57.PairOfAdjacent();
         }
     }
 }
