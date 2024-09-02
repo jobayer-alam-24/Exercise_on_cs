@@ -36,7 +36,7 @@ namespace Exercise
             }
             int max = multiplied.Max();
             
-            Console.Write($"{max}");
+            Console.Write($"Maximum: {max}");
         }
     }
 }

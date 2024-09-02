@@ -60,7 +60,8 @@
             // Exercise54.CenturyOfAGivenYear();
             // Exercise55.ProductOfPairAdjacentFromLargestOne();
             // Exercise56.PalindromeCheck();
-            Exercise57.PairOfAdjacent();
+            // Exercise57.PairOfAdjacent();
+            // Exercise58.AbsentNumbersInsideArray();
         }
     }
 }
