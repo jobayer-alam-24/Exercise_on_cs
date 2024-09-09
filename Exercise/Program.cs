@@ -62,6 +62,9 @@
             // Exercise56.PalindromeCheck();
             // Exercise57.PairOfAdjacent();
             // Exercise58.AbsentNumbersInsideArray();
+            // Exercise59.RectangularMatrixSumExceptZeroandBelowZero();
+            // Exercise63.IsPresentNumberInArray();
+            Exercise64.PathToFileName();
         }
     }
 }
