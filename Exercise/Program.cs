@@ -64,7 +64,9 @@
             // Exercise58.AbsentNumbersInsideArray();
             // Exercise59.RectangularMatrixSumExceptZeroandBelowZero();
             // Exercise63.IsPresentNumberInArray();
-            Exercise64.PathToFileName();
+            // Exercise64.PathToFileName();
+            // Exercise65.MultiplyByLength();
+            // Exercise66.MinimumValueFromGivenTwoNumbers(4, 5);
         }
     }
 }
