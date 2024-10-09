@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JOBAYER\\.nuget\\packages\\": {}
+    "C:\\Users\\skrob\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise_on_cs\\Exercise\\Exercise.csproj",
+      "projectUniqueName": "C:\\Users\\skrob\\OneDrive\\Documents\\Exercise_on_cs\\Exercise\\Exercise.csproj",
       "projectName": "Exercise",
-      "projectPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise_on_cs\\Exercise\\Exercise.csproj",
-      "packagesPath": "C:\\Users\\JOBAYER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JOBAYER\\OneDrive\\Tài liệu\\Exercise_on_cs\\Exercise\\obj\\",
+      "projectPath": "C:\\Users\\skrob\\OneDrive\\Documents\\Exercise_on_cs\\Exercise\\Exercise.csproj",
+      "packagesPath": "C:\\Users\\skrob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\skrob\\OneDrive\\Documents\\Exercise_on_cs\\Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JOBAYER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\skrob\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

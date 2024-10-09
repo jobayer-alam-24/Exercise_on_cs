@@ -6,8 +6,9 @@ namespace Exercise
     {
         public static void IsOnlyLowerOrUpper()
         {
-            string txt = "lower";
-            
+            string txt = "Lower";
+            bool check = txt == txt.ToLower() || txt == txt.ToUpper();
+            Console.WriteLine($"IS ONLY Lower OR Upper: {check}");
         }
     }
 }

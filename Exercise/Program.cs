@@ -69,7 +69,7 @@
             // Exercise66.MinimumValueFromGivenTwoNumbers(4, 5);
             // Exercise67.CodedString();
             // Exercise68.CountSpecifiedChar("I ALovea my Land", 'a');
-            // Exercise69.IsOnlyLowerOrUpper();
+            Exercise69.IsOnlyLowerOrUpper();
         }
     }
 }
