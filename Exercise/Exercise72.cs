@@ -7,6 +7,7 @@ namespace Exercise
     {
         public static void AlphabeticalOrder(string txt)
         {
+            // Convert string class to array = ToCharArray()
             char[] txtArray = txt.ToCharArray();
             Array.Sort(txtArray);
             Console.WriteLine(txtArray);

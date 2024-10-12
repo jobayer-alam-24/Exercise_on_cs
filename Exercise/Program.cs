@@ -72,7 +72,10 @@
             // Exercise69.IsOnlyLowerOrUpper();
             // Exercise70.isTwoSimilarConsecutive("PHP");
             // Exercise71.ConditionOnArray();
-            Exercise72.AlphabeticalOrder("PHP");
+            // Exercise72.AlphabeticalOrder("PHP");
+            // Exercise73.OddOrEvenLength();
+            // Exercise74.NthOfOddNumber();
+            // Exercise75.ASCII_VALUE_OF_GIVEN_CHAR();
         }
     }
 }
