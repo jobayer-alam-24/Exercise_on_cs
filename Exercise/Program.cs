@@ -1,4 +1,5 @@
-﻿namespace Exercise
+﻿using System.ComponentModel;
+namespace Exercise
 {
     class Program
     {
@@ -76,6 +77,11 @@
             // Exercise73.OddOrEvenLength();
             // Exercise74.NthOfOddNumber();
             // Exercise75.ASCII_VALUE_OF_GIVEN_CHAR();
+            // Exercise76.PluralWordsCheck();
+            // Exercise77.SumOfSquaresElementOfArray();
+            // Exercise78.ConvertStringToIntAndIntToString();
+            // Exercise79.ConvertAllArrayElementsToString();
+            Exercise80.
         }
     }
 }
