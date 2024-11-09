@@ -81,7 +81,9 @@ namespace Exercise
             // Exercise77.SumOfSquaresElementOfArray();
             // Exercise78.ConvertStringToIntAndIntToString();
             // Exercise79.ConvertAllArrayElementsToString();
-            Exercise80.swapTwoDigitNumsAndCheckCondition();
+            // Exercise80.swapTwoDigitNumsAndCheckCondition();
+            // Exercise81.RemoveNonLetters();
+            Exercise82.RemoveVowels();
         }
     }
 }
